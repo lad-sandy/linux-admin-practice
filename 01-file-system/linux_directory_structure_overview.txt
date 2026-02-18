@@ -1,0 +1,10 @@
+| Directory | Purpose                                   |
+| --------- | ----------------------                    |
+| `/`       | Root of the file system                   |
+| `/root`   | Home Directory of the root (admin) user   |
+| `/home`   | User home directories                     |
+| `/bin`    | Essential command binaries (like ls,cp)   |
+| `/etc`    | System Configuration files                |
+| `/var`    | Logs & variable data                      |
+| `/usr`    | Installed applications                    |
+| `/tmp`    | Temporary files                           |
